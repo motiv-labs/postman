@@ -1,0 +1,159 @@
+{
+  "structure": {
+    "inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+    "name": "Rich Text",
+    "description": "WYSIWYG rich text content",
+    "default_structure": "true",
+    "structuretype": "1",
+    "system": "false",
+    "fixed": "false",
+    "velocity_var_name": "webPageContent",
+    "host": "SYSTEM_HOST",
+    "folder": "SYSTEM_FOLDER",
+    "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+  },
+  "identifier": {
+    "id": "9a114643-488c-4f28-8726-b0fe139aac7f",
+    "parent_path": "/",
+    "asset_name": "content.433dec85-5ce4-4720-b3b1-5b600dbcf6af",
+    "host_inode": "48190c8c-42c4-46af-8d1a-0cd5db894797",
+    "asset_type": "contentlet"
+  },
+  "contentlets": [
+    {
+      "inode": "433dec85-5ce4-4720-b3b1-5b600dbcf6af",
+      "show_on_menu": "false",
+      "title": "Motiv test",
+      "mod_date": "2020-06-20 17:29:06.439 +0000 UTC",
+      "mod_user": "dotcms.org.1",
+      "sort_order": "0",
+      "friendly_name": "Motiv test",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "last_review": "2020-06-20 17:29:06.395 +0000 UTC",
+      "identifier": "9a114643-488c-4f28-8726-b0fe139aac7f",
+      "language_id": "1",
+      "text1": "Motiv test",
+      "text_area1": "\u003cp\u003eLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.\u003c/p\u003e\n\u003cp\u003eIn enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.\u003c/p\u003e\n\u003cp\u003ePhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,\u003c/p\u003e"
+    },
+    {
+      "inode": "489db931-cd53-42bd-a939-c5930140d9fa",
+      "show_on_menu": "false",
+      "title": "Motiv test - edit",
+      "mod_date": "2020-06-20 17:29:24.918 +0000 UTC",
+      "mod_user": "dotcms.org.1",
+      "sort_order": "0",
+      "friendly_name": "Motiv test - edit",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "last_review": "2020-06-20 17:29:24.702 +0000 UTC",
+      "identifier": "9a114643-488c-4f28-8726-b0fe139aac7f",
+      "language_id": "1",
+      "text1": "Motiv test - edit",
+      "text_area1": "\u003cp\u003eLorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.\u003c/p\u003e\n\u003cp\u003eIn enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.\u003c/p\u003e\n\u003cp\u003ePhasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,\u003c/p\u003e"
+    }
+  ],
+  "contentletsVersionInfo": [
+    {
+      "identifier": "9a114643-488c-4f28-8726-b0fe139aac7f",
+      "lang": "1",
+      "working_inode": "489db931-cd53-42bd-a939-c5930140d9fa",
+      "live_inode": "433dec85-5ce4-4720-b3b1-5b600dbcf6af",
+      "deleted": "false"
+    }
+  ],
+  "fields": [
+    {
+      "inode": "ae8e673e-1c4e-4333-9cbe-d5dd73687d71",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "field_name": "fields-0",
+      "field_type": "com.dotcms.contenttype.model.field.RowField",
+      "field_contentlet": "system_field",
+      "required": "false",
+      "indexed": "false",
+      "listed": "false",
+      "velocity_var_name": "fields0",
+      "sort_order": "0",
+      "fixed": "false",
+      "read_only": "false",
+      "searchable": "false",
+      "unique_": "false",
+      "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+    },
+    {
+      "inode": "afcc3e3e-cb69-4e55-a131-a1f156ad06cf",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "field_name": "fields-1",
+      "field_type": "com.dotcms.contenttype.model.field.ColumnField",
+      "field_contentlet": "system_field",
+      "required": "false",
+      "indexed": "false",
+      "listed": "false",
+      "velocity_var_name": "fields1",
+      "sort_order": "1",
+      "fixed": "false",
+      "read_only": "false",
+      "searchable": "false",
+      "unique_": "false",
+      "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+    },
+    {
+      "inode": "49c5bd96-d70c-441c-9c5f-7ccaa8e7ff9a",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "field_name": "Site",
+      "field_type": "com.dotcms.contenttype.model.field.HostFolderField",
+      "field_contentlet": "system_field",
+      "required": "true",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "contentHost",
+      "sort_order": "2",
+      "fixed": "false",
+      "read_only": "false",
+      "searchable": "false",
+      "unique_": "false",
+      "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+    },
+    {
+      "inode": "9f5a97dc-703c-4721-9cce-29478671558b",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "field_name": "Title",
+      "field_type": "com.dotcms.contenttype.model.field.TextField",
+      "field_contentlet": "text1",
+      "required": "true",
+      "indexed": "true",
+      "listed": "true",
+      "velocity_var_name": "title",
+      "sort_order": "3",
+      "regex_check": "[^(\u003c[.\\n]+\u003e)]*",
+      "fixed": "false",
+      "read_only": "false",
+      "searchable": "true",
+      "unique_": "false",
+      "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+    },
+    {
+      "inode": "5c6e0bff-cfeb-44c6-86e2-a0ba40e7b66c",
+      "structure_inode": "2a3e91e4-fbbf-4876-8c5b-2233c1739b05",
+      "field_name": "Body",
+      "field_type": "com.dotcms.contenttype.model.field.WysiwygField",
+      "field_contentlet": "text_area1",
+      "required": "true",
+      "indexed": "false",
+      "listed": "false",
+      "velocity_var_name": "body",
+      "sort_order": "4",
+      "fixed": "false",
+      "read_only": "false",
+      "searchable": "false",
+      "unique_": "false",
+      "mod_date": "2020-06-19 14:23:56 +0000 UTC"
+    }
+  ],
+  "system": {
+    "name": "dotCMS",
+    "version": "5.2.7",
+    "date": "2020-06-20 18:02:30.339279 -0600 CST m=+0.002429436"
+  },
+  "audit": {
+    "date": "2020-06-20 18:02:30.339279 -0600 CST m=+0.002429436"
+  }
+}
