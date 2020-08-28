@@ -23,18 +23,6 @@
       "text_area2": "Add files via upload"
     }
   ],
-  "binaries": [
-    {
-      "contentletAssetsPath": "1/4/14806757-e54d-48fe-a7b1-78390cfed444",
-      "md5": "39958aaf7004a6f99f86d958a0365d11",
-      "bucket": "0e5bf526-4177-4b85-9e4f-3f64a083db5a",
-      "fieldVarName": "fileAsset",
-      "fieldInode": "5a877539-9f24-4824-b29f-33c903086991",
-      "fileName": "pokerap",
-      "contentletInode": "14806757-e54d-48fe-a7b1-78390cfed444",
-      "contentletIdentifier": "da404063-2029-479c-8347-a595538f2a12"
-    }
-  ],
   "contentletsVersionInfo": [
     {
       "identifier": "da404063-2029-479c-8347-a595538f2a12",
