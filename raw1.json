@@ -1,0 +1,179 @@
+{
+  "structure": {
+    "inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+    "name": "GitHub",
+    "description": "Content type for GitHub files",
+    "structuretype": "4",
+    "velocity_var_name": "GitHub"
+  },
+  "identifier": {
+    "id": "da404063-2029-479c-8347-a595538f2a12",
+    "parent_path": "dont-change/",
+    "asset_name": "pokerap",
+    "asset_type": "contentlet"
+  },
+  "contentlets": [
+    {
+      "inode": "14806757-e54d-48fe-a7b1-78390cfed444",
+      "title": "pokerap",
+      "mod_date": "2020-07-22 09:11:20 -0400 -0400",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "identifier": "da404063-2029-479c-8347-a595538f2a12",
+      "text2": "pokerap",
+      "text_area2": "Add files via upload"
+    }
+  ],
+  "binaries": [
+    {
+      "contentletAssetsPath": "1/4/14806757-e54d-48fe-a7b1-78390cfed444",
+      "md5": "39958aaf7004a6f99f86d958a0365d11",
+      "bucket": "0e5bf526-4177-4b85-9e4f-3f64a083db5a",
+      "fieldVarName": "fileAsset",
+      "fieldInode": "5a877539-9f24-4824-b29f-33c903086991",
+      "fileName": "pokerap",
+      "contentletInode": "14806757-e54d-48fe-a7b1-78390cfed444",
+      "contentletIdentifier": "da404063-2029-479c-8347-a595538f2a12"
+    }
+  ],
+  "contentletsVersionInfo": [
+    {
+      "identifier": "da404063-2029-479c-8347-a595538f2a12",
+      "working_inode": "14806757-e54d-48fe-a7b1-78390cfed444",
+      "live_inode": "14806757-e54d-48fe-a7b1-78390cfed444",
+      "deleted": "false"
+    }
+  ],
+  "fields": [
+    {
+      "inode": "ef6d6355-0a5d-4f04-92ea-29407c2266e8",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Description",
+      "field_type": "com.dotcms.contenttype.model.field.TextAreaField",
+      "field_contentlet": "text_area2",
+      "required": "false",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "description",
+      "sort_order": "8",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "false"
+    },
+    {
+      "inode": "c7d943c1-9737-41a6-8482-6a6280cd624e",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Sort Order",
+      "field_type": "com.dotcms.contenttype.model.field.TextField",
+      "field_contentlet": "integer1",
+      "required": "false",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "sortOrder",
+      "sort_order": "7",
+      "default_value": "0",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "true"
+    },
+    {
+      "inode": "086958fa-65fb-4db9-91c4-17269acb6729",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Show on Menu",
+      "field_type": "com.dotcms.contenttype.model.field.CheckboxField",
+      "field_contentlet": "text3",
+      "required": "false",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "showOnMenu",
+      "sort_order": "6",
+      "field_values": "|true",
+      "default_value": "false",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "false"
+    },
+    {
+      "inode": "7001b403-e53d-4add-a174-1968cec9b726",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Metadata",
+      "field_type": "com.dotcms.contenttype.model.field.KeyValueField",
+      "field_contentlet": "text_area1",
+      "required": "false",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "metaData",
+      "sort_order": "5",
+      "fixed": "true",
+      "read_only": "true",
+      "searchable": "true"
+    },
+    {
+      "inode": "03c66ff6-6f0d-466a-863e-df1dc278ad5f",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "File Name",
+      "field_type": "com.dotcms.contenttype.model.field.TextField",
+      "field_contentlet": "text2",
+      "required": "false",
+      "indexed": "true",
+      "listed": "true",
+      "velocity_var_name": "fileName",
+      "sort_order": "3",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "true"
+    },
+    {
+      "inode": "58b63aaf-a793-4e6a-9788-11c0e359850f",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Title",
+      "field_type": "com.dotcms.contenttype.model.field.TextField",
+      "field_contentlet": "text1",
+      "required": "true",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "title",
+      "sort_order": "2",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "true"
+    },
+    {
+      "inode": "5a877539-9f24-4824-b29f-33c903086991",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "File Asset",
+      "field_type": "com.dotcms.contenttype.model.field.BinaryField",
+      "field_contentlet": "system_field",
+      "required": "true",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "fileAsset",
+      "sort_order": "1",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "true"
+    },
+    {
+      "inode": "be6a8a91-7789-40b4-851c-3397559ffddb",
+      "structure_inode": "9f791d8e-21c6-49d6-941d-96ad2e963400",
+      "field_name": "Site or Folder",
+      "field_type": "com.dotcms.contenttype.model.field.HostFolderField",
+      "field_contentlet": "system_field",
+      "required": "true",
+      "indexed": "true",
+      "listed": "false",
+      "velocity_var_name": "hostFolder",
+      "sort_order": "0",
+      "fixed": "true",
+      "read_only": "false",
+      "searchable": "true"
+    }
+  ],
+  "system": {
+    "name": "dotCMS",
+    "version": "5.2.7",
+    "date": "2020-08-13 22:42:03.663173193 +0000 UTC m=+222.161980503"
+  },
+  "audit": {
+    "date": "2020-08-13 22:42:03.663173193 +0000 UTC m=+222.161980503"
+  }
+}
