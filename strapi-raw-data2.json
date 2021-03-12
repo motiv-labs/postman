@@ -1,0 +1,86 @@
+{
+  "contentType":{
+    "uid":"application::rel.rel",
+    "apiId":"raw",
+    "schema":{
+      "name":"raw",
+      "description":"",
+      "draftAndPublish":true,
+      "connection":"default",
+      "kind":"collectionType",
+      "collectionName":"raws",
+      "attributes":{
+        "rawRich":{
+          "type":"richtext",
+          "Order":1
+        },
+        "rawText":{
+          "type":"string",
+          "Order":0
+        },
+        "related_type":{
+          "private":false,
+          "unique":false,
+          "nature":"oneToOne",
+          "target":"application::raw.raw",
+          "dominant":false,
+          "targetAttribute":"raw",
+          "Order":2
+        }
+      },
+      "editable":true
+    }
+  },
+  "content":{
+    "results":[
+      {
+        "created_at":"2021-03-09T13:38:00.838Z",
+        "created_by":{
+          "blocked":null,
+          "email":"admin@admin.com",
+          "firstname":"admin",
+          "id":1,
+          "isActive":true,
+          "lastname":"admin",
+          "registrationToken":null,
+          "resetPasswordToken":null,
+          "username":null
+        },
+        "id":1,
+        "published_at":"2021-03-09T13:38:06.750Z",
+        "rawRich":" raw body\n",
+        "rawText":"raw 1",
+        "related_type":{
+          "created_at":"2021-03-09T13:37:49.479Z",
+          "created_by":1,
+          "id":1,
+          "published_at":"2021-03-09T13:38:04.584Z",
+          "raw":1,
+          "relatedTitle":"related 1",
+          "updated_at":"2021-03-09T13:38:09.306Z",
+          "updated_by":1
+        },
+        "updated_at":"2021-03-09T13:38:09.309Z",
+        "updated_by":{
+          "blocked":null,
+          "email":"admin@admin.com",
+          "firstname":"admin",
+          "id":1,
+          "isActive":true,
+          "lastname":"admin",
+          "registrationToken":null,
+          "resetPasswordToken":null,
+          "username":null
+        }
+      }
+    ]
+  },
+  "system":{
+    "name":"strapi",
+    "version":"4.3.0",
+    "date":"2021-03-09 13:41:05.638736068 +0000 UTC m=+441.003142649"
+  },
+  "audit":{
+    "date":"2021-03-09 13:41:05.638736068 +0000 UTC m=+441.003142649"
+  }
+}
